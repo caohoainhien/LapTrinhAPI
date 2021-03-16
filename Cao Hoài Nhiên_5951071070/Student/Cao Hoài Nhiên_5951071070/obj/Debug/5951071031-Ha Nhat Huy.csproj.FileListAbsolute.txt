@@ -1,0 +1,419 @@
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.dll.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.pdb
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\csc.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\csc.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\csc.rsp
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\csi.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\csi.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\csi.rsp
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.AppContext.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Collections.Immutable.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Console.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Globalization.Calendars.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.Compression.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.FileSystem.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Net.Http.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Net.Sockets.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Reflection.Metadata.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.ValueTuple.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XPath.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\vbc.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\vbc.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\vbc.rsp
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\VBCSCompiler.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\roslyn\VBCSCompiler.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Antlr3.Runtime.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Web.Infrastructure.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Newtonsoft.Json.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Net.Http.Formatting.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Helpers.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Http.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Http.WebHost.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Mvc.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Optimization.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Razor.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Deployment.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Razor.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\WebGrease.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Newtonsoft.Json.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Net.Http.Formatting.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Helpers.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Http.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Http.WebHost.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Mvc.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Optimization.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.Razor.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Deployment.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Razor.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Antlr3.Runtime.pdb
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csproj.CoreCompileInputs.cache
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csproj.CopyComplete
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.pdb
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Authorization.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyModel.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.ObjectPool.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Options.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Net.Http.Headers.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Buffers.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Text.Encodings.Web.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Authorization.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.ObjectPool.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Options.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Primitives.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Microsoft.Net.Http.Headers.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\System.Text.Encodings.Web.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\Swashbuckle.Core.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\5951071031-Ha Nhat Huy\5951071031-Ha Nhat Huy\bin\WebActivatorEx.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.dll.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.pdb
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csc.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csc.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csc.rsp
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csi.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csi.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csi.rsp
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.AppContext.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Collections.Immutable.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Console.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Globalization.Calendars.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.Compression.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.FileSystem.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Net.Http.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Net.Sockets.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Reflection.Metadata.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.ValueTuple.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XPath.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\vbc.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\vbc.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\vbc.rsp
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\VBCSCompiler.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\VBCSCompiler.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Antlr3.Runtime.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Authorization.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyModel.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.ObjectPool.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Options.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Primitives.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Net.Http.Headers.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Web.Infrastructure.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Newtonsoft.Json.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Swashbuckle.Core.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Buffers.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Net.Http.Formatting.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Text.Encodings.Web.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Helpers.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.WebHost.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Mvc.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Optimization.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Razor.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Deployment.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Razor.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\WebActivatorEx.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\WebGrease.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Authorization.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.ObjectPool.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Options.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Primitives.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Net.Http.Headers.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Text.Encodings.Web.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Newtonsoft.Json.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Net.Http.Formatting.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Helpers.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.WebHost.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Mvc.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Optimization.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Razor.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Deployment.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Razor.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Antlr3.Runtime.pdb
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csprojAssemblyReference.cache
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csproj.CoreCompileInputs.cache
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csproj.CopyComplete
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.dll
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.pdb
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.dll.config
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\5951071031-Ha Nhat Huy.pdb
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csc.exe
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csc.exe.config
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csc.rsp
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csi.exe
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csi.exe.config
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\csi.rsp
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.AppContext.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Collections.Immutable.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Console.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Globalization.Calendars.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.Compression.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.FileSystem.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Net.Http.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Net.Sockets.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Reflection.Metadata.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.ValueTuple.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XPath.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\vbc.exe
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\vbc.exe.config
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\vbc.rsp
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\VBCSCompiler.exe
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\roslyn\VBCSCompiler.exe.config
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Antlr3.Runtime.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Authorization.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyModel.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.ObjectPool.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Options.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Primitives.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Net.Http.Headers.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Web.Infrastructure.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Newtonsoft.Json.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Swashbuckle.Core.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Buffers.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Diagnostics.DiagnosticSource.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Net.Http.Formatting.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Text.Encodings.Web.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Helpers.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.WebHost.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Mvc.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Optimization.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Razor.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Deployment.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Razor.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\WebActivatorEx.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\WebGrease.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Authorization.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.ObjectPool.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Options.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Extensions.Primitives.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.Net.Http.Headers.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Diagnostics.DiagnosticSource.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Text.Encodings.Web.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Newtonsoft.Json.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Net.Http.Formatting.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Helpers.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Http.WebHost.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Mvc.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Optimization.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.Razor.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Deployment.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\System.Web.WebPages.Razor.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Antlr3.Runtime.pdb
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csprojAssemblyReference.cache
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csproj.CoreCompileInputs.cache
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.csproj.CopyComplete
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.dll
+C:\hoctap\API\LapTringAPI\Hà Nhật Huy_5951071031\Student\5951071031-Ha Nhat Huy\obj\Debug\5951071031-Ha Nhat Huy.pdb
